@@ -10,7 +10,6 @@
     x
     y))
 
-
 (define (min x y)
   (if (< x y)
     x
